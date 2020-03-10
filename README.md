@@ -1,24 +1,8 @@
 # course-admin-web-master
 
-## Project setup
-```
-npm install
-```
+# 微课堂后台管理
+# SpringBoot + SpringSercurity + Mybaits + VUE/ElementUI
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# 目前暂时完成后台的管理员权限管理+课程管理逻辑
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# 前端开发中....
